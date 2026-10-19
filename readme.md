@@ -19,3 +19,5 @@ It's purple when produced. look through all the images and journal.md!
 
 ### 3D Cool View
 ![3D Cool View](images/3d-cool-view.png)
+
+![alt text](images/assemble3d.jpeg)
