@@ -43,3 +43,5 @@ Spent the entire night and following morning choosing pcb parts. some were showi
 
 And my final pcb is done!! Yipeee!
 ![3D Cool View](images/3d-cool-view.png)
+
+For my build, I simply ordered a PCBA from JLCPCB!
