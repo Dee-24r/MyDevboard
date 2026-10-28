@@ -21,3 +21,5 @@ It's purple when produced. look through all the images and journal.md!
 ![3D Cool View](images/3d-cool-view.png)
 
 ![alt text](images/assemble3d.jpeg)
+
+[<video controls src="images/dboard.mp4" title="Title"></video>](https://github.com/user-attachments/assets/dc549047-71fd-4562-b874-6a0587e34dc4)
